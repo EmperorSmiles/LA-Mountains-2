@@ -32,4 +32,3 @@ menuLinks.forEach(link => {
         closeMenu();
     });
 });
-
